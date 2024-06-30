@@ -1,0 +1,12 @@
+[package]
+name = "bevy-flight"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.13.2"
+kiddo = "4.2.0"
+serde = "1.0.203"
+serde_json = "1.0.117"

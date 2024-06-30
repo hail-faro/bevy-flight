@@ -1,0 +1,40 @@
+{
+    "models": [
+        {
+            "Dispatcher.gltf": [
+                0.0,
+                10.0,
+                0.0
+            ]
+        },
+        {
+            "Executioner.gltf": [
+                5.0,
+                0.0,
+                -15.0
+            ]
+        },
+        {
+            "Imperial.gltf": [
+                0.0,
+                20.0,
+                -30.0
+            ]
+        },
+        {
+            "Dispatcher.gltf": [
+                -10.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Dispatcher.gltf": [
+                10.0,
+                10.0,
+                -20.0
+            ]
+        }
+    ],
+    "audio": []
+}
